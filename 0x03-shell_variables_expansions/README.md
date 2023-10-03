@@ -1,1 +1,1 @@
-Readme file for 0x03/Shell_variables  expansions
+0-alias a script that creates an alias
