@@ -1,1 +1,1 @@
-my shell work
+Readme file for 0x03/Shell_variables  expansions
